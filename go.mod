@@ -1,4 +1,4 @@
-module unibee-tools
+module github.com/jackyang-hk/go-tools
 
 go 1.21
 
