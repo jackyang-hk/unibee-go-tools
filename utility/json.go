@@ -3,7 +3,7 @@ package utility
 import (
 	"github.com/gogf/gf/v2/encoding/gjson"
 	"github.com/gogf/gf/v2/errors/gerror"
-	"unibee-tools/utility/unibee"
+	"github.com/jackyang-hk/go-tools/utility/unibee"
 )
 
 func FormatToJsonString(target interface{}) string {
